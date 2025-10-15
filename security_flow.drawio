@@ -4,6 +4,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_O_64iPQs3X-C6nSO5Xz-1" value="&lt;div&gt;APP&lt;/div&gt;HTML / API" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_O_64iPQs3X-C6nSO5Xz-2" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="310" y="150" width="103.3" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="_O_64iPQs3X-C6nSO5Xz-3" value="Users" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
