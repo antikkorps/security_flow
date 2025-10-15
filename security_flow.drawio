@@ -70,6 +70,12 @@
             <mxPoint x="710" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="_O_64iPQs3X-C6nSO5Xz-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Miu_Black_Social-2261/github-1223.svg" vertex="1" parent="1">
+          <mxGeometry x="730" y="570" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_O_64iPQs3X-C6nSO5Xz-18" value="Dependabot" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="585" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
