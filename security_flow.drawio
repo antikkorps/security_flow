@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="UfevvxqJ-7oyU4rjKeek">
-    <mxGraphModel dx="1836" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3171" dy="1214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,10 +40,15 @@
             <mxPoint x="546.7" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_O_64iPQs3X-C6nSO5Xz-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.437;exitDx=0;exitDy=0;exitPerimeter=0;endWidth=64;endSize=32.72;width=76.66666666666667;" parent="1" edge="1" target="_O_64iPQs3X-C6nSO5Xz-1" source="BqtGxmESbknefVVEOQj8-1">
+        <mxCell id="_O_64iPQs3X-C6nSO5Xz-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.437;exitDx=0;exitDy=0;exitPerimeter=0;endWidth=64;endSize=32.72;width=76.66666666666667;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-110" y="335" as="sourcePoint" />
-            <mxPoint x="440" y="310" as="targetPoint" />
+            <mxPoint x="-120" y="321.50000000000006" as="sourcePoint" />
+            <mxPoint x="450" y="319.81" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BqtGxmESbknefVVEOQj8-11" value="VPN Entre l&#39;établissement et l&#39;écosystème Microsoft Azure" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_O_64iPQs3X-C6nSO5Xz-10">
+          <mxGeometry x="-0.3689" y="-1" relative="1" as="geometry">
+            <mxPoint x="20" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_O_64iPQs3X-C6nSO5Xz-11" value="SAST&lt;div&gt;Static Application Security Testing&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
